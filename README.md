@@ -29,7 +29,8 @@ The code starts with importing necessary Python modules for:
 **Main Function**: It starts the GUI application.
 
 
-To make the code work, the user needs to follow these steps:
+
+***To make the code work, the user needs to follow these steps:***
 
  1. Ensure Python is installed on the system. Install required Python
     packages using pip. This includes: Tkinter watchdog screeninfo
