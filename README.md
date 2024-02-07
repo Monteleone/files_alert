@@ -1,6 +1,10 @@
+ 
+
+<p align="center">
+  <img src="https://github.com/Monteleone/files_alert/blob/main/icon_alert.png" width="48">
+</p>
 
 
-<center><img src="https://github.com/Monteleone/files_alert/blob/main/icon_alert.png" width="48"></center>
 
 This Python code creates a GUI (Graphical User Interface) application called "Files Alert" that allows users to monitor a specific directory for the addition of new files and receive a desktop notifications when that happens. 
 The popup notification alerting the user when new files have been added to the monitored directory is created using the Tkinter library. This choice was made because if the event were managed by the Windows notification manager, the notification would disappear after a few seconds. Instead, the desired behavior is for the notification to remain on the screen until the user clicks on it to dismiss it.
