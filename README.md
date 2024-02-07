@@ -36,12 +36,12 @@ The code starts with importing necessary Python modules for:
     
  2. Ensure the necessary images (e.g., notification.ico, icon_alert.png) are available in the specified paths or modify the paths accordingly.
     
- 4. Set the desired directory to monitor by changing the self.watch_path variable in the GUI class to the desired directory path.
+ 3. Set the desired directory to monitor by changing the self.watch_path variable in the GUI class to the desired directory path.
     
- 6. Run the Python script. The application window "Files Alert" will appear.
+ 4. Run the Python script. The application window "Files Alert" will appear.
     
- 8. Use the File menu to change the file path to monitor or exit the application.
+ 5. Use the File menu to change the file path to monitor or exit the application.
    
- 9. When a new file is created in the monitored directory, a notification will pop up displaying the number of new files. Close the notification window to dismiss the alert.
+ 6. When a new file is created in the monitored directory, a notification will pop up displaying the number of new files. Close the notification window to dismiss the alert.
 
  
