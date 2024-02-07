@@ -1,7 +1,7 @@
  
 
 <p align="center">
-  <img src="https://github.com/Monteleone/files_alert/blob/main/icon_alert.png" width="48">
+  <img src="https://github.com/Monteleone/files_alert/blob/main/icon_alert.png" width="150">
 </p>
 
 
