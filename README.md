@@ -44,4 +44,12 @@ The code starts with importing necessary Python modules for:
    
  6. When a new file is created in the monitored directory, a notification will pop up displaying the number of new files. Close the notification window to dismiss the alert.
 
+
+
+
+#  multi_path_file_monitor.py version
+ 
+This version monitors a set of user-specified paths to detect the addition of new files with PDF or shortcut (LNK) extensions. 
+When new files are added to one of the monitored paths, a pop-up notification is displayed on the GUI to alert the user.
+
  
